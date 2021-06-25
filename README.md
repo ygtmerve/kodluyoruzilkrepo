@@ -4,7 +4,7 @@ Bu repo [Patika.dev](https://www.patika.dev/)  Mobil Oyun Bootcamp eğitiminde o
 ![index](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 ### Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ``` 
 git clone https://github.com/ygtmerve/kodluyoruzilkrepo.git 
 ```
